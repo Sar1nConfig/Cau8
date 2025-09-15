@@ -1,3 +1,4 @@
+// Câu 8. Viết Function 
 <?php
 function giaiPTBac2($a, $b, $c) {
     if ($a == 0) {
